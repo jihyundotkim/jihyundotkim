@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
+My name is **Jihyun Kim** and I am a 26-year-old budding AI developer. Currently learning everything I can about artificial intelligence, machine learning, deep learning, and data analysis.
+
+## 안녕하세요! 👋
+저는 스물여덟살 김지현이라고 합니다. 인공지능 개발자가 되기 위해 공부하고 있어요!
 <!--
 **jihyundotkim/jihyundotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
