@@ -1,12 +1,12 @@
 [Click here for the English version.](#english)
 
 **안녕하세요!** 👋
-서른살 김지현이라고 합니다. 웹/앱 개발을 하면서 겸사겸사 인공지능도 하고 있습니다.
+김지현이라고 합니다. 웹/앱 개발을 하면서 겸사겸사 인공지능도 하고 있습니다.
 
 # English
 **Hi there!** 👋
 
-My name is **Jihyun Kim** and I am a 28-year-old software engineer who primarily works on web/mobile apps and does AI on the side.
+My name is **Jihyun Kim** and I am a software engineer who primarily works on web/mobile apps and does AI on the side.
 
 <!--
 **jihyundotkim/jihyundotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
